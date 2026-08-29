@@ -25,7 +25,7 @@ Header (<header>): Contains the project title and the theme toggle button (#btnT
 
 Subscription Form (<form>): Includes input fields for the user's name and email with clear visual labels.
 
-Footer (<footer>): Contains a dynamic <span> tag (#ano) where the current year is populated via script.
+Footer (footer): Contains a dynamic <span> tag (#ano) where the current year is populated via script.
 
 Script Optimization: The JavaScript file is linked in the <head> using the defer attribute to ensure DOM elements load prior to script execution.
 
