@@ -39,4 +39,4 @@ Form Grid: Employs display: grid; gap: .5rem; on the form elements for consisten
 3. JavaScript (app.js)
 Dynamic Year: Uses new Date().getFullYear() to automatically populate #ano in the footer.
 
-Theme Switching Logic: Toggles the data-tema="escuro" attribute on the root HTML element (<html>) upon clicking the #btnTema button.---------------
+Theme Switching Logic: Toggles the data-tema="escuro" attribute on the root HTML element (<html>) upon clicking the #btnTema button.
