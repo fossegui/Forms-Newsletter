@@ -23,7 +23,7 @@ A lightweight, responsive web page for a programming newsletter featuring a dyna
 1. HTML (index.html)
 Header (<header>): Contains the project title and the theme toggle button (#btnTema).
 
-Subscription Form (<form>): Includes input fields for the user's name and email with clear visual labels.
+Subscription Form (< form >): Includes input fields for the user's name and email with clear visual labels.
 
 Footer (footer): Contains a dynamic <span> tag (#ano) where the current year is populated via script.
 
