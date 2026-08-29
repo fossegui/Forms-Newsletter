@@ -17,7 +17,7 @@ A lightweight, responsive web page for a programming newsletter featuring a dyna
 │   └── styles.css    # Custom CSS styles and dynamic theme variables
 └── js/
     └── app.js        # JavaScript for theme toggling and dynamic year insertion
-
+```
 🛠️ Key Components Explained
 
 1. HTML (index.html)
